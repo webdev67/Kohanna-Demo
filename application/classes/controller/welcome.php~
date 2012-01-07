@@ -1,0 +1,12 @@
+<?php defined('SYSPATH') or die('No direct script access.');
+
+class Controller_Welcome extends Controller_Template {
+
+	public $template='pages/blog';
+
+	public function action_index()
+	{
+		$this->template->content= View::factory('pages\blog');
+	}
+
+} // End Welcome
