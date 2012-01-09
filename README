@@ -1,2 +1,9 @@
+The purpose of this app is to demonstrate my ability in coding using the Kohana 3.0 framework on top of PHP 5. 
+
+It is a very basic app that populates a database table based on data grabbed from a Twitter API - you can search for
+anything you like on twitter , and it will save the items for you in the table.
+
+
 To see this code live, visit http://www.ramimikhail.info/kohanna/blog
+
 
